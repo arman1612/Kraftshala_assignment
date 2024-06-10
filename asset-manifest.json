@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kraftshala_assignment/static/css/main.85eb23e7.css",
+    "main.js": "/Kraftshala_assignment/static/js/main.999d63e5.js",
+    "static/media/bg7.jpg": "/Kraftshala_assignment/static/media/bg7.f1bd7b752dd8958b2e61.jpg",
+    "static/media/header.jpg": "/Kraftshala_assignment/static/media/header.d6403fd2309e0074d3e0.jpg",
+    "index.html": "/Kraftshala_assignment/index.html",
+    "main.85eb23e7.css.map": "/Kraftshala_assignment/static/css/main.85eb23e7.css.map",
+    "main.999d63e5.js.map": "/Kraftshala_assignment/static/js/main.999d63e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85eb23e7.css",
+    "static/js/main.999d63e5.js"
+  ]
+}
