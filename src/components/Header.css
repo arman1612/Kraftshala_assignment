@@ -1,0 +1,51 @@
+/* -----------------------------header */
+.header {
+    background-image: url(../../public/images/header.jpg);
+    background-size: cover;
+    background-position: relative;
+    color: rgb(12, 11, 6);
+    padding: 2rem;
+    width: 25rem;
+    display: flex;
+    justify-content:flex-start;
+    align-items: end;
+  } 
+  
+  .header div{
+    font-size: large;
+  }
+  
+  .header h1 {
+    font-weight: 500;
+    font-size: 2rem;
+    font-family: 'Indie Flower', cursive;
+    color: #e4eff7;
+  }
+  
+  .header p {
+    margin-top: 1rem;
+    font-weight: 600;
+    font-size: 1.5 rem;
+    color: #e4eff7;
+    font-size: larger;
+  }
+  
+  a:hover, a:visited, a:link, a:active{
+    text-decoration: none;
+    color: #d0e5f5;
+  }
+ 
+  
+  @media (max-width: 1085px){
+    .header{
+      width: 20rem;
+    }
+  }
+
+  @media (max-width: 887px){
+    .header{
+      width: 60%;
+      height: 35vh;
+      margin: auto;
+    }
+  }

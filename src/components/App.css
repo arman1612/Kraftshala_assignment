@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* --------------------background */
+.container-fluid{
+  background-image: url("../../public/images/bg7.jpg");
+  background-size: cover;
+  height:120vh;
+}
+
+.row{
+  padding-top: 5.5rem;
+  padding-bottom: 5rem;
+  display: flex;
+  justify-content: center;
+}
+
+
+@media (max-width: 887px) {
+  .row{
+    flex-direction: column;
+  }
+}
